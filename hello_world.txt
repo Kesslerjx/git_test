@@ -1,1 +1,2 @@
 Hello world and goodbye
+Adding this line to test the commit message tab
